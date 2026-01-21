@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  Matlab Developer | Coder | Tech Enthusiast | Gamerboy
+  Python | Coder | Gamer_PC/Mobile | 
   
 </p>
 
@@ -63,9 +63,8 @@ As a versatile Electronics and telecommunication engineer, I am committed to lev
 
 ### GitHub Contribution Chart
 <a href="https://github.com/ShubhamDesai07">
-    <img src="https://ghchart.rshah.org/ShubhamDesai07" alt="RAFIKSHA's GitHub Contribution Chart">
+  <img src="https://ghchart.rshah.org/ShubhamDesai07?color=dracula" alt="ShubhamDesai07's GitHub Contribution Chart">
 </a>
-
 
 
 
