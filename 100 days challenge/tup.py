@@ -1,2 +1,2 @@
-tup = ('rrr','kantara','taarzan','kantara2' )
+tup = ('rrr','kantaraa','taarzan','kantara2' )
 print(tup[0:3])
